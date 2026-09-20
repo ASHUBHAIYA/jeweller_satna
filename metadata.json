@@ -1,0 +1,8 @@
+{
+  "name": "Remix SwarnaVyapar - Jeweler POS \u0026 Billing",
+  "description": "Professional jewelry billing, daily gold \u0026 silver rate estimation, custom purity calculator, transaction management, WhatsApp bills, sales \u0026 profit analytics, and CA tax export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
